@@ -1,12 +1,13 @@
 # OPtimer
 
-Đồng hồ Pomodoro viết bằng C++ và raylib.
+Đồng hồ Pomodoro viết bằng c/C++ và raylib.
 
 ## Tính năng
 - Ba chế độ: Pomodoro, Short Break, Long Break
-- Chỉnh thời gian khi đang dừng (nút khóa để mở)
+- Chỉnh thời gian khi đang dừng (nút "unlock" để mở)
 - Danh sách công việc, hoàn thành bằng nút Done
 - Chuông khi hết giờ, chạy được khi thu nhỏ cửa sổ
+- Hiệu ứng tiếng click, hoạt ảnh nhấn nút start 
 
 ## Yêu cầu
 - CMake 3.16 trở lên, trình biên dịch C++17
