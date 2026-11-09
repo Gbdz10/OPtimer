@@ -1,4 +1,4 @@
-!define APP_VERSION "1.3_release"
+!define APP_VERSION "1.3"
 Name "OPtimer ${APP_VERSION}"
 OutFile "OPtimer_${APP_VERSION}-Setup.exe"
 InstallDir "$PROGRAMFILES64\OPtimer"
