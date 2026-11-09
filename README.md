@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="sample/OPtimer.png" width="300" alt="OPtimer icon">
+  <img src="sample/OPtimer.png" width="100" alt="OPtimer icon">
 </p>
 
 **[Tải bản mới nhất / Download latest release](https://github.com/Gbdz10/OPtimer/releases/latest)**
