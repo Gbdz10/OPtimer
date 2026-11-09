@@ -1,0 +1,11 @@
+build/
+build-rel/
+build-win/
+OPtimer.AppDir/
+*.AppImage
+*.exe
+appimagetool-x86_64.appimage
+*.zip
+*.save
+.vscode/
+*.docx
